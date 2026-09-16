@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Apoorv 👋
 
-<!--
-**Apoorvishere/Apoorvishere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech AI & Data Science Student**
+💻 Exploring **AI/ML, Agentic AI, VLMs & Data Science**
+🚀 Building projects that turn ideas into practical solutions
+🌐 Learning **Python, C, Git & GitHub**, and expanding into the broader world of software development
 
-Here are some ideas to get you started:
+Currently focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🤖 AI & Machine Learning
+* 🧠 Vision-Language Models & Agentic AI
+* 📊 Data Science
+* 💻 Programming & DSA
+* 🛠️ Building real-world projects & hackathon solutions
+
+> **Learn. Build. Break. Improve. Repeat.**
