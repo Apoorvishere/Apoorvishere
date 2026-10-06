@@ -10,10 +10,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Apoorvishere&style=for-the-badge&color=302b63&label=PROFILE+VIEWS" alt="Profile views">
-
-&nbsp;
-
 <a href="https://github.com/Apoorvishere?tab=followers">
 <img src="https://img.shields.io/github/followers/Apoorvishere?style=for-the-badge&color=302b63&label=FOLLOWERS" alt="Followers">
 </a>
