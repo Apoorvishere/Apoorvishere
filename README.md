@@ -21,23 +21,25 @@
 ## Who Am I?
 
 ```text
+
 ┌──────────────────────────────────────────────────────────────┐
-│                       APOORV JHA                             │
+│                          APOORV JHA                          │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  🎓  B.Tech — Artificial Intelligence & Data Science         │
+│  [EDU]  B.Tech — Artificial Intelligence & Data Science      │
 │                                                              │
-│  🧠  Interested in AI, Computer Vision & Intelligent Systems │
+│  [AI]   AI, Computer Vision & Intelligent Systems            │
 │                                                              │
-│  🛰️  Building SatQuery AI                                    │
+│  [DEV]  Building SatQuery AI                                 │
 │                                                              │
-│  ⚡  Hackathon enjoyer                                        │
+│  [HACK] Hackathon Enthusiast                                 │
 │                                                              │
-│  🔬  Learning by building                                    │
+│  [LAB]  Learning by Building                                 │
 │                                                              │
-│  ☕  Powered by questionable amounts of caffeine              │
+│  [COF]  Powered by Questionable Amounts of Caffeine          │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
+
 ```
 
 I'm an **AI & Data Science student** who likes taking ideas that sound slightly ridiculous and trying to turn them into actual systems.
@@ -181,12 +183,25 @@ Knowing What I'm Doing
 
 ---
 
+
 ## Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/Apoorvishere/SatQuery-AI">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Apoorvishere&repo=SatQuery-AI&theme=tokyonight&hide_border=true" alt="SatQuery AI">
+</a>
+
+<a href="https://github.com/Apoorvishere/OMNIS">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Apoorvishere&repo=OMNIS&theme=tokyonight&hide_border=true" alt="OMNIS">
+</a>
+
+<a href="https://github.com/Apoorvishere/RIGOR">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Apoorvishere&repo=RIGOR&theme=tokyonight&hide_border=true" alt="RIGOR">
+</a>
+
+<a href="https://github.com/Apoorvishere/AccessPath">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Apoorvishere&repo=AccessPath&theme=tokyonight&hide_border=true" alt="AccessPath">
 </a>
 
 </div>
@@ -196,6 +211,30 @@ Knowing What I'm Doing
 > Agentic multimodal intelligence for remote-sensing imagery.
 
 **Stack:** `Python` `VLMs` `Computer Vision` `Remote Sensing` `SAR` `Optical Imagery`
+
+---
+
+### 🧠 OMNIS
+
+> An intelligent document exploration workspace combining search, source tracing, and knowledge graph visualization to make complex information easier to navigate.
+
+**Stack:** `Document Intelligence` `Information Retrieval` `Knowledge Graphs` `AI`
+
+---
+
+### 📈 RIGOR
+
+> A research-oriented framework exploring the reliability, reproducibility, and statistical credibility of quantitative trading strategies and AI-driven financial research.
+
+**Stack:** `Python` `Quantitative Finance` `Statistical Analysis` `Backtesting` `Machine Learning`
+
+---
+
+### ♿ AccessPath
+
+> An agentic web accessibility auditing prototype that evaluates websites through real browser interactions, helping uncover accessibility barriers in practical user workflows.
+
+**Stack:** `TinyFish` `Playwright` `axe-core` `Supabase` `Web Accessibility`
 
 ---
 
@@ -215,6 +254,7 @@ I'm building and experimenting across:
 ```
 
 ---
+
 
 ## GitHub Statistics
 
